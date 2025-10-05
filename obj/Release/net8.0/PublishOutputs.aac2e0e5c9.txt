@@ -1,0 +1,12 @@
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\BackendProductos.exe
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\Data\Datos.json
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\BackendProductos.dll
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\BackendProductos.deps.json
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\BackendProductos.runtimeconfig.json
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\BackendProductos.pdb
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Intermix\Back\BackendProductos\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
